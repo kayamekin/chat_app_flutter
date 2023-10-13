@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "842470327412",
+    "project_id": "fir-dersleri-flutter-d855d",
+    "storage_bucket": "fir-dersleri-flutter-d855d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842470327412:android:4ec7483a6ec5158a227d21",
+        "android_client_info": {
+          "package_name": "com.mekinbaturalp.udemy_firebase_course"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842470327412-opbpld60u9p7pup1afllbvi6bfsdal4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHIBVNIYK9GRmCLDE_3_DSwBgUiMGHddc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842470327412-opbpld60u9p7pup1afllbvi6bfsdal4b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "842470327412-dum5a4mbs8153bbmk46st32319k4lkol.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mekinbaturalp.udemyFirebaseCourse.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
